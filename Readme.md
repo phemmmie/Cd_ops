@@ -1,4 +1,4 @@
-#Simple Flask CD pipeline 
+#Simple Flask CD pipelines 
 
 1. Set up GitHub Account & Repo
 
